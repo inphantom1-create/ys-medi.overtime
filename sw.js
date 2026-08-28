@@ -5,7 +5,7 @@
    캐싱 전략: Cache First (정적 자산) + Network First (API)
    ============================================================ */
 
-const CACHE_NAME = 'overtime-v4.0.0';
+const CACHE_NAME = 'overtime-v3.0.0';
 
 /** 캐싱할 정적 파일 목록 */
 const STATIC_ASSETS = [
