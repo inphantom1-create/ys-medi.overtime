@@ -1,7 +1,7 @@
 /* ============================================================
    시간외 근무 신청 시스템 - script.js
    ============================================================ */
-const GAS_URL        = 'https://script.google.com/macros/s/AKfycbz5cxirKN3ztr82qn8JPfCdlUHrBH8VhdcxAyn6uEg6VTkSpGbbQNAD_ms8VSpF7P-4bw/exec';
+const GAS_URL        = 'https://script.google.com/macros/s/AKfycbwuBGCnsE8Jr0vLGlnlyHbpXl3Lvnc05J_3suJZ-_7UbgJcWWt8o9zOlMznTuSe3eKo1g/exec';
 const ADMIN_PASSWORD = '1234';
 const WORK_START  = timeToMin('08:30');
 const WORK_END    = timeToMin('17:30');
